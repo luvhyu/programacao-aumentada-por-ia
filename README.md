@@ -78,15 +78,9 @@ Utilizei o mapa mental gerado pelo NotebookLM como um guia para organizar os ass
 
 ### Apresentação
 
-A apresentação reúne os principais pontos pesquisados, as fontes utilizadas, os experimentos realizados e o método desenvolvido.
+A apresentação reúne os principais pontos pesquisados, as fontes utilizadas, os experimentos realizados e o método desenvolvido, e ainda que bem basica e direta ao ponto criou algo interessante de se olhar, MAS NÃO SUBISTITUI AS PERGUNTAS, a apresentação é bem leviana comparada ao notebook todo.
 
 [Ver apresentação](./assets/apresentacao.pdf)
-
-### Vídeo
-
-O vídeo apresenta de forma resumida o processo de pesquisa e os principais aprendizados obtidos durante o projeto.
-
-[Assistir ao vídeo](./assets/video.mp4)
 
 ---
 
