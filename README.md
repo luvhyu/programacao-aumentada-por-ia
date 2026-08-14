@@ -68,11 +68,25 @@ Ela me ajudou a visualizar:
 * como os conceitos se conectavam;
 * quais tópicos eu ainda precisava revisar.
 
-### Mapa mental gerado
+## Materiais complementares
 
-> **Insira aqui o mapa mental exportado do NotebookLM**
+### Mapa Mental
+
+Utilizei o mapa mental gerado pelo NotebookLM como um guia para organizar os assuntos que precisava estudar e identificar os conceitos que deveriam ser fixados.
 
 ![Mapa Mental](./assets/mapa-mental.png)
+
+### Apresentação
+
+A apresentação reúne os principais pontos pesquisados, as fontes utilizadas, os experimentos realizados e o método desenvolvido.
+
+[Ver apresentação](./assets/apresentacao.pdf)
+
+### Vídeo
+
+O vídeo apresenta de forma resumida o processo de pesquisa e os principais aprendizados obtidos durante o projeto.
+
+[Assistir ao vídeo](./assets/video.mp4)
 
 ---
 
@@ -117,35 +131,6 @@ Ela me ajudou a visualizar:
 **Por que escolhi esta fonte?**
 
 > Escolhi essa fonte porque mostra uma experiência prática de como a IA pode ser incorporada ao dia a dia de um programador. Ela me ajudou a enxergar melhor onde a IA pode realmente economizar tempo e facilitar tarefas durante o desenvolvimento. Isso reforça minha ideia de usar a IA como uma ferramenta de apoio, enquanto continuo responsável por entender e tomar as decisões.
-
----
-
-# Engenharia de Prompts
-
-Durante o desenvolvimento percebi que **a qualidade da resposta depende muito mais da pergunta do que da IA**.
-
-## Prompt 1 — Exploração de conceitos
-
-> *Atue como um programador experiente e meu mentor.
-
-Com base exclusivamente nas fontes deste NotebookLM, ensine como programadores utilizam Inteligência Artificial no dia a dia para aumentar a produtividade e reduzir tarefas repetitivas.
-
-Não quero apenas uma lista de ferramentas. Quero entender:
-- quais problemas do desenvolvimento podem ser resolvidos com IA;
-- em quais situações um programador costuma recorrer à IA;
-- como ele formula os pedidos;
-- quais tarefas devem continuar sob responsabilidade do programador;
-- quais são os riscos de depender demais da IA.
-
-Explique de forma prática, utilizando exemplos de situações reais de desenvolvimento. Sempre que possível, mostre como um programador pensaria antes, durante e depois de utilizar a IA.*
-
-**Objetivo**
-
-Entender um conceito antes de escrever código e me passar as informações como se fosse um Programador com anos de pratica e que os modos de usar a IA para facilitar seja mais integrado e simples de pegar.
-
-**Resultado**
-
-> Escreva aqui o que funcionou.
 
 ---
 
@@ -216,29 +201,44 @@ A IA deixa de tratar a situação de forma leviana e realmente me da maneiras de
 ## Para aprender um conceito
 
 ```text
-Explique este conceito como se eu fosse um estudante de programação.
-Não escreva o código primeiro. Quero entender a lógica.
+Com base exclusivamente nas fontes deste NotebookLM, ensine como programadores utilizam Inteligência Artificial no dia a dia para aumentar a produtividade e reduzir tarefas repetitivas.
+
+Não quero apenas uma lista de ferramentas. Quero entender:
+- quais problemas do desenvolvimento podem ser resolvidos com IA;
+- em quais situações um programador costuma recorrer à IA;
+- como ele formula os pedidos;
+- quais tarefas devem continuar sob responsabilidade do programador;
+- quais são os riscos de depender demais da IA.
+
+Explique de forma prática, utilizando exemplos de situações reais de desenvolvimento. Sempre que possível, mostre como um programador pensaria antes, durante e depois de utilizar a IA.
 ```
 
 ## Para revisar meu código
 
 ```text
-Analise meu código e aponte possíveis problemas, mas não reescreva a solução.
-Faça perguntas que me ajudem a encontrar o erro.
-```
+Quero que você atue como um revisor do meu código.
 
-## Para organizar estudos
+Quando eu enviar um código, analise e identifique exatamente onde estão os meus erros. 
+Você pode corrigir o código diretamente, mas não quero que reescreva partes que já estão corretas.
 
-```text
-Crie um mapa mental com os principais tópicos que preciso dominar sobre este assunto.
-Organize do básico ao avançado.
+Para cada erro encontrado:
+- mostre o trecho que escrevi;
+- mostre como ele deveria ficar;
+- explique de forma simples exatamente o que estava errado;
+- explique por que a correção funciona;
+- diga qual conceito preciso entender para não cometer esse erro novamente.
+
+Não faça melhorias ou otimizações que não sejam necessárias para corrigir meus erros. 
+O objetivo é preservar o máximo possível do meu código original e deixar claro quais partes foram realmente corrigidas por causa de erros meus.
+
+No final, apresente o código corrigido completo e uma lista curta dos conceitos que devo revisar.
 ```
 
 ---
 
 # Conclusão
 
-Este projeto mostrou que a IA gera mais valor quando atua como uma **ferramenta de aprendizagem e produtividade**, e não como uma substituta do programador.
+Este projeto mostrou que a IA gera mais valor quando atua como uma **ferramenta de aprendizagem e produtividade**, e não como uma substituta do programador, alem dela me fazer o codigo ou corrigilo eu aprendo cada vez mais para possivelmente arrumar caso ela tenha qualquer devaneio.
 
 Mais do que escrever código mais rápido, o objetivo passou a ser **aprender melhor, organizar conhecimento e reduzir o atrito durante os estudos**. O NotebookLM se tornou um ambiente para conectar fontes, estruturar ideias e transformar dúvidas em um plano claro de aprendizado.
 
